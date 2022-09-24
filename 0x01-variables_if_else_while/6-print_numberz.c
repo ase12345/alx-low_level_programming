@@ -1,4 +1,5 @@
-include <stdio.h>
+#include <stdio.h>
+
 
 /**
  * main - prints out all numbers under 10
